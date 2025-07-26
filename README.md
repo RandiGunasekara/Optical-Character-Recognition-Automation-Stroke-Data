@@ -1,0 +1,1 @@
+# Optical-Character-Recognition-Automation-Stroke-Data
