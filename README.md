@@ -1,5 +1,6 @@
 # Automated Optical Character Recognition for Stroke Data
 
+### This project was completed during my internship at The Florey Institute - Australian Stroke Organization
 ## Project Overview
 
 This project focuses on automating the manual process of handling stroke patient data for the **Australian Stroke Organization**.
